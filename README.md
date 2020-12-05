@@ -7,9 +7,7 @@ Video Link: https://www.youtube.com/watch?v=za_l-5WSPoM
 
 ## Screenshot
 
-![image-20201205131754069](C:\Users\adity\AppData\Roaming\Typora\typora-user-images\image-20201205131754069.png)
-
-
+![](https://lh4.googleusercontent.com/PztgFo8l2eemofz8_EbuZCCq1XR5CjiIxMdquwyuSrMcEZrLE1ALCatVj7ygubR3DcwLgymnUv537DXHJ0o7e-1vX39rfHZjg-iGMmyw3CAwpTfgPYdR8szXDPlTmJDDlepqa8FGub7YPMQ2yicZdHQUIKTLexh08cvSwzpw1Pfn7vl9)
 
 ## Usage
 
