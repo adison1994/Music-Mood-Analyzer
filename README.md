@@ -1,8 +1,6 @@
 # Music-Mood
 Heroku Link: https://music-mood-analyzer.herokuapp.com/
 
-Video Link: https://www.youtube.com/watch?v=za_l-5WSPoM
-
 
 
 ## Screenshot
