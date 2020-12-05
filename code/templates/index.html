@@ -1,0 +1,28 @@
+<html>
+<style>
+    body {
+        max-width: 1180px;
+        width: 98%;
+        margin: 0px auto;
+        text-align: center;
+        padding-top: 2%;
+    }
+</style>
+
+<body>
+    <h2> Mood classification on Lyrics. </h2>
+    <p> Please enter Lyrics in the textbox provided below</p>
+    <form action="classify" , method="POST">
+        <input type="text" name="lyrics">
+        <input type="submit">
+    </form>
+    <h2>OR</h2>
+    <p> Test on lyrics from Musixmatch. Please specify number of songs and <a href ="https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2">country code.</a></p>
+    <form action="musixmatch" , method="POST">
+        <input type="text" name="k" value="1">
+        <input type="text" name="country" value="us">
+        <input type="submit">
+    </form>
+</body>
+
+</html>
